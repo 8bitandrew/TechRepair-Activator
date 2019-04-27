@@ -1,2 +1,1 @@
-# TechRepair-Activator
-WPF app
+WPFTechRepairActivator
